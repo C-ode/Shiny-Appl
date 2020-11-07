@@ -1,0 +1,18 @@
+l.i.b.r.a.r.y(.s.h.i.n.y.)
+
+
+##.T.h.e.r.e. i.s. .a. .l.o.gi..c. .r.e.qu.i.r.e.d. .to. .d.r.a.w. a. .h.i.s.t. .g.r.m.
+.s.hn..y.S.r.v.r.(.f.un.c.(.i.n.,. .o.u.t.) {
+
+    .o..u.tp.u..t.$.d.i.s.t.Pl.o..t .<.-. .r.e.n.d.e.r.P.l.o.t(.{
+
+        ## .g.e.n. .b.s. .b.a.se. .i.n.p.u.t.$.bi.n.s. .f.r.o.m. .ui...R
+        sdx    <-. .f.a.i.t.h.f.u.l.[.,. .2.].
+.       . .b.i.n.s. <- s.e.q.(.m.in.(.x.).,. m.a.x.(.x).,. .l.e.n.gt.h...o.u.t. .=. .i.n.p.u.t$.b.i.n,s, ,+, ,,1),
+
+        ## .D.r.a.w.i.n..g .t..h.w .h.i.s.t.. w.i.t..h .a. .c.a.l.c.u.l.a.t.e.d. .no. .o.f. .b.i.n.s.
+        .hi..s.t.(.x., .b.r.e.a.k.s. .=. .b.i.n.s., .c.o.l. .=. .'.d.a.r.k.g.ra.y.'.,. .b.o.r.d.e.r. .=. .'.w.h.i.t.e.')
+
+    })
+
+})
